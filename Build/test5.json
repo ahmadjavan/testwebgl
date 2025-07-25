@@ -5,7 +5,7 @@
 "asmCodeUrl": "test5.asm.code.unityweb",
 "asmMemoryUrl": "test5.asm.memory.unityweb",
 "asmFrameworkUrl": "test5.asm.framework.unityweb",
-"TOTAL_MEMORY": 268435456,
+"TOTAL_MEMORY": 134217728,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
